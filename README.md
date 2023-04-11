@@ -1,3 +1,5 @@
 # Spotify_Analysis
 
-I am still worjing on this analysis.
+I am still working on this analysis.
+
+The project will be added soon.
